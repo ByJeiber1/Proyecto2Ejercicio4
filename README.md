@@ -19,7 +19,7 @@ esperada?. Realice 50 corridas.
 
 - Clonar el repositorio
 
-`git clone https://github.com/scriptom/simulacion-apuestas-io-proyecto02`
+`git clone https://github.com/ByJeiber1/Proyecto2Ejercicio4
 
 
 - Uso del programa
